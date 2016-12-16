@@ -1,0 +1,21 @@
+D/Alert////
+D/BDII////
+D/BossLite////
+D/CMSConfigTools////
+D/CatalogInterface////
+D/CmsGen////
+D/Core////
+D/Credential////
+D/DataMgmt////
+D/Database////
+D/FwkJobRep////
+D/JobFactory////
+D/MCPayloads////
+D/SiteDB////
+D/Storage////
+D/ThreadTools////
+D/TrivialFileCatalog////
+D/WebServiceClient////
+D/WebServices////
+/__init__.py/1.2/Mon Jun 19 23:21:38 2006//TPRODCOMMON_0_12_17_patch5
+/cleanup.sh/1.1/Tue Jun 13 19:51:31 2006//TPRODCOMMON_0_12_17_patch5
