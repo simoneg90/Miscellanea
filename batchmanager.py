@@ -267,7 +267,7 @@ class BatchManager:
             if not onLxplus:
                 if onRome:
                   print 'running %s on Rome ui %s' % (batchCmd, hostName)
-                  return 'LXPLUS' #same lxplus configuration
+                  return 'ROME' #same lxplus configuration
                 else:
                   err = 'Cannot run %s on %s' % (batchCmd, hostName)
                   raise ValueError( err )
